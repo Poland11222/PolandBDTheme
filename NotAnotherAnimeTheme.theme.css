@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://cdn.discordapp.com/avatars/1077384953962180668/a_edb183079137d23d1e8f82175c950edd.gif?size=256);
 
   /*
     Main Theme Color
@@ -55,7 +55,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 184px;
 
   /*
     Font Size
